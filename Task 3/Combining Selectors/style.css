@@ -1,0 +1,14 @@
+/* Write your code here: */
+h1, h2 {
+    color: green;
+  }
+  .box .done {
+    color: purple;
+  }
+  .box .list li:first-child {
+    color: blue;
+  }
+  .box .list li.done {
+    color: lightgreen;
+  }
+  
